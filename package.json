@@ -16,10 +16,6 @@
     "dev": "rollup -c --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/NicciWill-Solutions/nws_ui.git"
-  },
   "author": "Nicci Williams",
   "license": "MIT",
   "bugs": {
