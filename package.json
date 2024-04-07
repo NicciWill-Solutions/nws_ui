@@ -8,9 +8,6 @@
   "files": [
     "dist"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/NicciWill-Solutions"
-  },
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c --watch",
@@ -58,5 +55,8 @@
   },
   "peerDependencies": {
     "react": "^18.2.0"
+  },
+  "dependencies": {
+    "flowbite-react": "^0.8.0"
   }
 }
